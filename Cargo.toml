@@ -1,0 +1,13 @@
+[package]
+name = "exercise"
+version = "0.1.0"
+authors = [ "Chris Ohk <utilforever@gmail.com>" ]
+edition = "2021"
+description = "🦀 A collection of various exercises for learning Rust code!"
+
+readme = "README.md"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
